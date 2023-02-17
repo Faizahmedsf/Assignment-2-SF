@@ -1,7 +1,7 @@
 console.log('index.ts');
 
 // user model (interface , type ya class)
-// decorator
+// decorator 
 // class table give only types
 // data table 
 // node typing 
